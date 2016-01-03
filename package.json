@@ -1,0 +1,37 @@
+{
+  "name": "ol3-react-example",
+  "version": "0.0.0",
+  "description": "Basic ol3 + react example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asharma-ror/OpenLayers-react.git"
+  },
+  "keywords": [
+    "redux",
+    "react"
+  ],
+  "author": "AK",
+  "license": "MIT",
+  "bugs": {
+        "url": "https://github.com/asharma-ror/OpenLayers-react/issues"
+  },
+  "homepage": "https://github.com/asharma-ror/OpenLayers-react#readme",
+  "dependencies": {
+    "openlayers": "^3.3.0",
+    "react": "^0.13.3",
+    "react-redux": "^0.5.0",
+    "redux": "^1.0.0-rc"
+  },
+  "devDependencies": {
+    "react-hot-loader": "^1.2.7",
+    "jsx-loader": "^0.13.2",
+    "style-loader": "^0.12.0",
+    "css-loader": "^0.16.0",
+    "webpack": "^1.9.11",
+    "webpack-dev-server": "^1.9.0"
+  }
+}
